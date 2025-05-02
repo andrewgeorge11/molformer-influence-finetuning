@@ -14,9 +14,8 @@ _Masked Language Modeling (MLM) for domain adaptation
 - Kaggle GPU (Tesla P100)
 
 ## Project Structure
-- notebooks: 3 tasks implemented in Jupyter notebooks
+- Notebooks: 3 tasks implemented in Jupyter notebooks
 - report: Final project report (PDF)
-- results: CSV with computed influence scores
 
 
 ## Key Contributions
